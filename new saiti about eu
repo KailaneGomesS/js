@@ -1,0 +1,65 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Minha página Web</title>
+ </head>
+
+ <body>
+<body>
+<body style="background-color:#D2B48C;"></body>
+
+<style> 
+h1 {
+ color: #2F4F4F;
+}
+#negrito{
+ font-weight: bold;
+}
+
+
+.italico{
+color: #2F4F4F;
+font-style: italic;
+} }
+</style>
+<center>
+      <h1 id = "negrito" >Minha página Web</h1>
+      <h1 class = "italico">Olá! Meu Nome é Kailane</h1>
+      <h2> <font color = #2F4F4F >Tenho 16 anos. </font> </h2>
+      <h2><font color= #2F4F4F>Moro em Fortaleza.</font> </h2>
+      <p>&#128512;</p>
+</center>
+  </body>
+</html>
+
+<center>
+<style>
+#p1 {
+color:black;
+}
+
+#p2 {
+color:black;
+}
+</style>
+
+<div>
+ <h2 id="p1">Estudo no IFCE. Muito bom programção.</h2>
+ <h2 id="p2">Faço curso de informática. </h2>
+<script>
+const e = document.getElementById("p1");
+e.remove();
+</script>
+</div>
+</center>
+<html>
+<body>
+<center>
+<h1 style="color:red;">Calcifer</h1>
+<p style="color:red;">Parágrafo</p>
+<img src="C:\Users\Alunos\Downloads\avatars-69wnFxrEzgTOWKEP-LXol6A-t500x500.jpg"  width="600" height="600">
+
+
+</center>
+</body>
+</html>
